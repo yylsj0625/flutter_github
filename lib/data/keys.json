@@ -1,0 +1,50 @@
+[
+  {
+    "path": "Flutter",
+    "name": "Flutter",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": "Android",
+    "name": "Android",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": "iOS",
+    "name": "iOS",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": "react-native",
+    "name": "React Native",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": "MySQL",
+    "name": "MySQL",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": " AngularJS",
+    "name": " AngularJS",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": " jQuery",
+    "name": " jQuery",
+    "checked": true,
+    "delete":true
+  },
+  {
+    "path": " react",
+    "name": " React",
+    "checked": true,
+    "delete":true
+  }
+]
